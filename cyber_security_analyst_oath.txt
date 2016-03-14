@@ -1,0 +1,21 @@
+I swear to fulfill, to the best of my ability and judgment, this covenant:
+
+I will respect the hard-won scientific gains of those intelligence researchers and analysts in whose steps I walk, and gladly share such knowledge as is mine with those who are to follow.
+
+I will apply, for the benefit of mankind, all measures which are required, avoiding those twin traps of too hasty and too late analysis.
+
+I will remember that there is art to intelligence research as well as science, and that creativity and open source intelligence may outweigh the complex tools or the large budgets.
+
+I will not be ashamed to say "I don't know" nor will I fail to call on my colleagues when the skills of another are needed for complete and accurate analysis.
+
+I will respect the privacy of my clients, for their problems are not disclosed to me that the world may know. Most especially must I tread with care in matters of exploits and vulnerabilities. If it is given me to discover a zero day, this awesome responsibility must be handled and reported with great caution and humility.
+
+Above all, I must not play at God.
+
+I will remember that I do not only investigate a C2 or RAT but a serious and capable threat, whose aim is to disable or destroy a business's ability to opperate. My research is about more than just a C2.
+
+I will predict attacks whenever I can, for prediction is preferable to incident response.
+
+I will remember that I remain a member of the society I protect, with special obligations to all mankind.
+
+If I do not violate this oath, may I enjoy life and art, respected while I live and remembered with honor thereafter. May I always act so as to preserve the finest traditions of my calling and may I long experience the joy of protecting those who seek my help.
