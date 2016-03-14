@@ -7,4 +7,4 @@ It shares the impetus and spirit of ["A Scientist Rebels](http://lanl-the-back-s
 
 Computer scientists and particularly security researchers must choose ethical conduct in the face of considerable pressure to abuse their skills.
 
-I (fhightower) have created another oath specifically geared toward cyber security analysts based on the [full hippocratic oath] (https://en.wikipedia.org/wiki/Hippocratic_Oath "Hippocratic Oath")
+I (fhightower) have created two other oaths specifically geared toward cyber security analysts and programmers that are based on the [full hippocratic oath] (https://en.wikipedia.org/wiki/Hippocratic_Oath "Hippocratic Oath")
