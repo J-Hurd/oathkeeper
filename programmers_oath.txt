@@ -1,0 +1,22 @@
+I swear to fulfill, to the best of my ability and judgment, this covenant:
+
+I will respect the hard-won scientific gains of those scientists and programmers in whose steps I walk, and gladly share such knowledge as is mine with those who are to follow.
+
+I will apply, for the benefit of mankind, all measures which are required, avoiding those twin traps of insecure and unusable programs.
+
+I will remember that there is art to programming as well as science, and that creativity, passion, and late nights may outweigh a big budget and a large team.
+
+I will not be ashamed to say "I don't know." nor will I fail to call on my friends when the skills of another are needed for solving a problem.
+
+I will respect the good of my fellow man, for their servers and databases are not designed for me to compromise. Most especially must I tread with care in matters of hacking and defacing. Programming can improve life, but it can also be used to attack and harm.  This power that programming provides must be used for good and wielded with humility.
+
+Above all, I must not play at God.
+
+I will remember that I do not just create code, but also a lense people use to view and interact with the world.  In short, I can improve life and the enjoyment thereof.
+
+I will prevent security breaches by using secure programming practices to the best of my ability, for prevention is preferable to a patch.
+
+I will remember that I remain a member of society, with special obligations to educate, aid, and equip mankind.
+
+If I do not violate this oath, may I enjoy life, coding, and art, respected while I live and remembered for my contributions thereafter. May I always act so as to preserve the finest traditions of my calling and may I long experience the joy of programming.
+
